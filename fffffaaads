@@ -1,0 +1,6 @@
+  <MixedArrayOffset occurrences="4"/>
+    <UndefinedClass occurrences="19">
+      <code>\Zend\I18n\Filter\Alnum</code>
+      <code>\Zend\I18n\Filter\Alpha</code>
+      <code>\Zend\I18n\Filter\NumberFormat</code>
+      <code>\Zend\I18n\Filter\NumberParse</code>
